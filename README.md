@@ -2,7 +2,7 @@
 ![MasterHead](https://github.com/SaugatSthaa/SaugatSthaa/blob/main/1.jpg)
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/SaugatSthaa/SaugatSthaa/blob/main/pc-banging.gif">
+
 
 - 📫 How to reach me **crsaugat2@gmail.com**
 
