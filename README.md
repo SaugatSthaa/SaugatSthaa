@@ -1,10 +1,11 @@
 
 ![MasterHead](https://github.com/SaugatSthaa/SaugatSthaa/blob/main/tumblr_e7ddefbe4bd3156f044294a7a86a7e5b_c5ee121c_1280.jpg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saugatsthaa&label=Profile%20views&color=0e75b6&style=flat" alt="saugatsthaa" /> </p>
-<img align="right" alt="Coding" width="400" src="
+<img align="right" alt="Coding" width="400" src="https://github.com/SaugatSthaa/SaugatSthaa/blob/main/0933dff960df6245c00323ecd9e01afa.gif")
 - 📫 How to reach me **crsaugat2@gmail.com**
 
-- ⚡ Fun fact **Treat me like white tee.**
+- ⚡ Fun fact 
+-  **Treat me like white tee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
