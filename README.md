@@ -1,5 +1,5 @@
 
-![MasterHead](https://github.com/SaugatSthaa/SaugatSthaa/blob/main/desktop-wallpaper-mugen-samurai-champloo.jpg)
+![MasterHead](https://github.com/SaugatSthaa/SaugatSthaa/blob/main/tumblr_e7ddefbe4bd3156f044294a7a86a7e5b_c5ee121c_1280.jpg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saugatsthaa&label=Profile%20views&color=0e75b6&style=flat" alt="saugatsthaa" /> </p>
 
 - 📫 How to reach me **crsaugat2@gmail.com**
