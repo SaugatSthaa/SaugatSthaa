@@ -6,7 +6,8 @@
 
 - 📫 How to reach me **crsaugat2@gmail.com**
 
-- ⚡ Fun fact **Treat me like white tee.**
+- ⚡ Fun fact 
+- **Treat me like white tee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
