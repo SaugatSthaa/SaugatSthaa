@@ -5,7 +5,7 @@
 
 
 - 📫 How to reach me **crsaugat2@gmail.com**
-
+Learning c,c++
 - ⚡ Fun fact 
 - **Treat me like white tee.**
 
