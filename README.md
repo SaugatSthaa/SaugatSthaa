@@ -1,6 +1,6 @@
-### Hi there 👋
 
-![MasterHead](https://github.com/SaugatSthaa/Amara/blob/main/desktop-wallpaper-mugen-samurai-champloo.jpg)
+
+![MasterHead](https://github.com/SaugatSthaa/SaugatSthaa/blob/main/desktop-wallpaper-mugen-samurai-champloo.jpg)
 <h1 align="center">I'm Saugat shrestha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saugatsthaa&label=Profile%20views&color=0e75b6&style=flat" alt="saugatsthaa" /> </p>
 
