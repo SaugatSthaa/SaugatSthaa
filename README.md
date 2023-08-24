@@ -1,5 +1,7 @@
 
 ![MasterHead](https://github.com/SaugatSthaa/SaugatSthaa/blob/main/1.jpg)
+<h1 align="center">HEY</h1>
+<h3 align="center">None of us is as smart as all of us.</h3>
 
 - 📖 Learning **C,C++**
 - 📫 How to reach me **crsaugat2@gmail.com**
