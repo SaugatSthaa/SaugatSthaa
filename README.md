@@ -3,7 +3,7 @@
 
 - 📖 Learning **C,C++**
 - 📫 How to reach me **crsaugat2@gmail.com**
-- ⚡ Fun fact -𝐄𝐚𝐫𝐭𝐡 𝐢𝐬𝐧'𝐭 𝐚𝐜𝐭𝐮𝐚𝐥𝐥𝐲 𝐫𝐨𝐮𝐧𝐝.
+- ⚡𝐄𝐚𝐫𝐭𝐡 𝐢𝐬𝐧'𝐭 𝐚𝐜𝐭𝐮𝐚𝐥𝐥𝐲 𝐫𝐨𝐮𝐧𝐝.
 - ✅**Treat me like white tee.**
 
 
