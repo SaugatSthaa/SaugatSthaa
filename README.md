@@ -4,7 +4,7 @@
 <h3 align="center">None of us is as smart as all of us.</h3>
 
 - 📖 Learning **C,C++**
-- 📫 How to reach me **crsaugat2@gmail.com**
+- 📫 Reach me through **crsaugat2@gmail.com**
 - ⚡𝐄𝐚𝐫𝐭𝐡 𝐢𝐬𝐧'𝐭 𝐚𝐜𝐭𝐮𝐚𝐥𝐥𝐲 𝐫𝐨𝐮𝐧𝐝.
 - ✅**Treat me like white tee.**
 
