@@ -1,5 +1,5 @@
 
-![MasterHead](https://github.com/SaugatSthaa/SaugatSthaa/blob/main/goku.gif)
+![MasterHead](https://github.com/SaugatSthaa/SaugatSthaa/blob/main/banner.gif)
 
 - 📖 Learning **C,C++**
 - 📫 How to reach me **crsaugat2@gmail.com**
